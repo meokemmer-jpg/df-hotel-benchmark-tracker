@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.kemmer.df-hotel-benchmark-tracker</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>HOME_REPLACE_ME/Projects/dark-factories/df-hotel-benchmark-tracker/scripts/run-df-benchmark.sh</string>
+    </array>
+    <key>RunAtLoad</key>
+    <true/>
+    <key>StartInterval</key>
+    <integer>3600</integer>
+    <key>StandardOutPath</key>
+    <string>HOME_REPLACE_ME/Library/Logs/df-hotel-benchmark-tracker.out.log</string>
+    <key>StandardErrorPath</key>
+    <string>HOME_REPLACE_ME/Library/Logs/df-hotel-benchmark-tracker.err.log</string>
+</dict>
+</plist>
