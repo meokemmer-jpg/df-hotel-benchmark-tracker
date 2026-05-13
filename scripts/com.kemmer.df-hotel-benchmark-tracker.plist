@@ -7,15 +7,15 @@
     <key>ProgramArguments</key>
     <array>
         <string>/bin/bash</string>
-        <string>HOME_REPLACE_ME/Projects/dark-factories/df-hotel-benchmark-tracker/scripts/run-df-benchmark.sh</string>
+        <string>/Users/make/Projects/dark-factories/df-hotel-benchmark-tracker/scripts/run-df-benchmark.sh</string>
     </array>
     <key>RunAtLoad</key>
     <true/>
     <key>StartInterval</key>
     <integer>3600</integer>
     <key>StandardOutPath</key>
-    <string>HOME_REPLACE_ME/Library/Logs/df-hotel-benchmark-tracker.out.log</string>
+    <string>/Users/make/Library/Logs/df-hotel-benchmark-tracker.out.log</string>
     <key>StandardErrorPath</key>
-    <string>HOME_REPLACE_ME/Library/Logs/df-hotel-benchmark-tracker.err.log</string>
+    <string>/Users/make/Library/Logs/df-hotel-benchmark-tracker.err.log</string>
 </dict>
 </plist>
