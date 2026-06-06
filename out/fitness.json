@@ -1,0 +1,8 @@
+{
+  "df": "df-hotel-benchmark-tracker",
+  "ts": "2026-06-05T14:13:21.910857+00:00",
+  "ok": true,
+  "bytes": 2679,
+  "model": "qwen2.5:14b-instruct",
+  "duration_s": 63.9
+}
