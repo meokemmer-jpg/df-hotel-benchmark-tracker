@@ -1,0 +1,12 @@
+{
+  "df": "df-hotel-benchmark-tracker",
+  "ts": "2026-06-08T19:56:21.513089+00:00",
+  "has_src": true,
+  "parse_ok": true,
+  "has_tests": true,
+  "test_ran": true,
+  "tests_passed": true,
+  "code_hash": "079584d206c1c018",
+  "python": "3.14.4",
+  "crux": "[CRUX-MK]"
+}
